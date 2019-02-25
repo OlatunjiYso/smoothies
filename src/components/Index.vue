@@ -78,6 +78,5 @@ export default {
 .index .ingredients li{
   display: inline-block;
   margin: 5px 10px;
-
 }
 </style>
