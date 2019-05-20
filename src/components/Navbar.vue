@@ -3,7 +3,7 @@
     <nav class="nav-extended indigo darken-2">
       <div class="nav-content">
         <router-link :to="{ name: 'Index' }">
-          <span class="nav-title">Ninja Smoothies </span>
+          <span class="nav-title">Vue Smoothies </span>
         </router-link>
         <a href="" class="btn-floating btn-large halfway-fab pink">
           <router-link v-bind:to="{ name: 'AddSmoothie' }">
